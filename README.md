@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adityaa9z
+- 👋 Hi, I’m Aditya
 - 👀 I’m interested in Data Science and ML
 
 <!---
